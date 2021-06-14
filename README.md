@@ -2,6 +2,8 @@
 Just wanted to check how many animes I watched in past 2 months XD. And also wanted to give `Deno` a try...
 
 ## Usage
+ Want Python version... [Here we Go](https://github.com/PiyushSuthar/anilist-monthl-ist.py)
+
 ### Prerequisite
  - [Deno](https://deno.land)
 
